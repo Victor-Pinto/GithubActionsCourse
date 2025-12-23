@@ -1,5 +1,5 @@
 name: Aprendiendo Github Actions
-run-name: learning_github_actions
+run-name: Learning Github Actions
 on: [push]
 jobs: 
   hola-mundo:
